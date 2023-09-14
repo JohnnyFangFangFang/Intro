@@ -16,6 +16,7 @@ I just finished a web development course from an online bootcamp. Through this 9
 
 🤝 **If you are interested, let’s get in touch and have a chat :)**  
 - johnny781222@gmail.com
+- [one-page CV (file)](https://drive.google.com/drive/folders/10m2hvIlOhLOxOVe3m61wOZy6hF9oqvZT?usp=sharing)
 - [one-page CV (Canva)](https://www.canva.com/design/DAFt3jp6oUQ/ayl5YfcX5ET8GlivsOvk5g/view?utm_content=DAFt3jp6oUQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - [LinkedIn](https://www.linkedin.com/in/johnny-fang-9356b2156)
 - [CakeResume](https://www.cakeresume.com/s--mjcyH8zZBzfm2UWfa2RGUw--/johnny-fang-resume-chinese)
