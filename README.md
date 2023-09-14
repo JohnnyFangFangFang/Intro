@@ -9,9 +9,9 @@ I just finished a web development course from an online bootcamp. Through this 9
 
 
 🚀 **My Tech Stack**  
-- Front-end: JavaScript, CSS, HTML, React, Tailwind, Sass / SCSS, Bootstrap, Integration with RESTful APIs, RWD
-- Back-end: Firebase, Node.js / Express.js, MongoDB
-- Others: Git, GitHub, Figma / FigJam, Trello, Discord, Notion
+- **Front-end**: JavaScript, CSS, HTML, React, Tailwind, Sass / SCSS, Bootstrap, Integration with RESTful APIs, RWD
+- **Back-end**: Firebase, Node.js / Express.js, MongoDB
+- **Others**: Git, GitHub, Figma / FigJam, Trello, Discord, Notion
 
 
 🤝 **If you are interested, let’s get in touch and have a chat :)**  
