@@ -2,7 +2,7 @@
 
 Feel free to check out my temporary [personal page](https://johnnyfang18.wixsite.com/my-site). A new one will be established in the near future. The page serves as a portal to my social media, CV, and side project portfolio. For your convenience, my CV and other links are listed below as well.
 
-I just finished a web development course from an online bootcamp. Through this 9-month journey, I built my knowledge upon front-end development. Currently, I am looking for a front-end engineer position, and I believe I am a good fit to the role due to some points, including but not limited to:  
+I just finished a web development course from an online bootcamp. Through this 9-month journey, I built my knowledge upon front-end development. I believe I am a good fit to the role as a frontend developer due to some points, including but not limited to:  
 - Rapid Self-Learning Ability
 - Enthusiasm for Software and Continuous Engagement
 - Leadership and Positive Impact on People
